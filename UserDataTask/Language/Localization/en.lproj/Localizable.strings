@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  UserDataTask
+
+  Created by Nanda Pradeesh on 23/07/25.
+  
+*/
+
+
+"userData" = "User Data";
+"addUserData" = "Add User";
+"userDetails" = "User Details";
+
+//MARK:- Common
+"errorNetworkFailed" = "Unable to connect to the server. Check your connection, then try again.";
+"serverFailed" = "Server is not responding, please try again.";
+"CLNetworkErrorMessage" = "Please check your network connection, and try again.";
+"errorGettingUserDetail" = "Error getting User Details from server";
+"error" = "Error!";
+//MARK:- Alert Button
+"ok" = "OK";
+"no" = "NO";
+"yes" = "YES";
+"done" = "Done";
+"cancel" = "Cancel";
+"noAccessTitle" = "No access";
+"noRecordFound" = "No records found";
+"save" = "Save";
+"employeeDetails" = "User details saved successfully";
